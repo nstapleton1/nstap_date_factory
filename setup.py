@@ -5,10 +5,10 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="datefactory", 
-    version="0.0.7",
+    version="1.0.1",
     author="Niall Stapleton",
     author_email="niall.stapleton@gmail.com",
-    description="Date Handling Package",
+    description="Date Handling",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="",

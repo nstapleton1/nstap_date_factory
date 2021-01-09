@@ -3,3 +3,4 @@ include *.py
 include *.py__
 include LICENSE
 include Pipfile
+include README.md
